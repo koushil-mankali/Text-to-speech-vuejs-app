@@ -124,7 +124,7 @@ export default {
 
 .btns {
   margin: auto;
-  width: max-content;
+  width: 100%;
   padding: 0.5rem;
   background-color: pink;
   border: 2px solid #eee;
